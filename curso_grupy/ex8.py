@@ -17,4 +17,3 @@ if delta < 0:
     print(input('não há nenhuma raiz real'))
 if delta == 0:
     print(input('há uma única raiz real'))
-

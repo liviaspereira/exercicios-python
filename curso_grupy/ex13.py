@@ -8,4 +8,3 @@ if data_validade < data_hoje:
     print('seu produto está vencido')
 else:
     print('seu produto está lindão')
-

@@ -15,4 +15,3 @@ for i in lista:
 print(f'{soma}')
 media = soma / len(lista)
 print(f'a média é: {media}')
-

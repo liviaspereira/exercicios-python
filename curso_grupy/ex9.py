@@ -12,5 +12,3 @@ if w > 20:
 if w <= 20:
     j = w - 5
     print(f'o valor é: {j}')
-
-

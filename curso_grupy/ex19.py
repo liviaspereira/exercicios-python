@@ -8,4 +8,3 @@ for n in range(11):
 
 for h in (range(10, 51, 1)):
     print(f'os números são: {h}')
-

@@ -10,5 +10,3 @@ for n in range(largura):
 
 for h in range(altura):
     print(soma)
-
-

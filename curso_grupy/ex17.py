@@ -21,9 +21,3 @@ if está_ordenada:
     print('A lista está ordenada!!')
 else:
     print('A lista não está ordenada!!')
-
-
-
-
-        
-
