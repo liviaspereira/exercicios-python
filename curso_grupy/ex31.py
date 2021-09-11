@@ -11,6 +11,5 @@ def area_do_circulo(raio):
     area = pi * raio ** 2
     return area
 
-print(area_do_circulo)
-
+print(area_do_circulo(raio))
 
