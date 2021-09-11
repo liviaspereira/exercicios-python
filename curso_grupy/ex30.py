@@ -16,4 +16,3 @@ def é_par(numero):
 
 
 
-
