@@ -2,7 +2,6 @@
 
 def caracter_valido(string):
     char = '{', '[', '(', ')', ']' '}'
-    
     for caracter in string:
 
 def RemoveBrackets(strParam):
